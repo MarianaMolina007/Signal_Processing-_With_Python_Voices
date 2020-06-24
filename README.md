@@ -13,3 +13,5 @@ https://github.com/ismir/ismir-home.git
 https://steakrecords.com/es/691613-how-to-compare-frequencies-sampling-rates-in-pandas-python-pandas-sample-data.html
 # Codigos
 ...
+# Documentos
+https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/2800/1/SPD08.pdf
