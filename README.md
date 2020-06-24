@@ -6,6 +6,7 @@ https://homepage.univie.ac.at/christian.herbst/python/namespacedsp_util.html
 https://docs.scipy.org/doc/scipy/reference/signal.html
 
 https://librosa.github.io/librosa/    (pretty interesting)
+https://librosa.org/librosa/tutorial.html?highlight=chromagram
 
 # Repos that may help
 https://github.com/AllenDowney/ThinkDSP.git
