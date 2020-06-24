@@ -17,3 +17,6 @@ https://github.com/amikey/audacity
 # Documentos
 https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/2800/1/SPD08.pdf
 https://cloud.google.com/speech-to-text/docs/multiple-voices#speech_transcribe_diarization_beta-python
+
+# Others
+https://www.kaggle.com/donghaoqiao/gender-recognition-by-voice-with-python
