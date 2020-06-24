@@ -12,8 +12,10 @@ https://github.com/AllenDowney/ThinkDSP.git
 https://github.com/ismir/ismir-home.git
 https://steakrecords.com/es/691613-how-to-compare-frequencies-sampling-rates-in-pandas-python-pandas-sample-data.html
 https://github.com/amikey/audacity
+
 # Codigos
-...
+https://www.kaggle.com/tekdogan/distinguishing-voices-by-gender-using-svm/notebook?select=voice.csv
+
 # Documentos
 https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/2800/1/SPD08.pdf
 https://cloud.google.com/speech-to-text/docs/multiple-voices#speech_transcribe_diarization_beta-python
