@@ -14,7 +14,7 @@ https://steakrecords.com/es/691613-how-to-compare-frequencies-sampling-rates-in-
 https://github.com/amikey/audacity
 
 # Codigos
-
+https://www.kaggle.com/ejlok1/audio-emotion-part-2-feature-extract
 
 # Documentos
 https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/2800/1/SPD08.pdf
