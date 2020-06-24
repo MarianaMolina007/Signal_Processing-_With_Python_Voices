@@ -11,6 +11,7 @@ https://librosa.github.io/librosa/    (pretty interesting)
 https://github.com/AllenDowney/ThinkDSP.git
 https://github.com/ismir/ismir-home.git
 https://steakrecords.com/es/691613-how-to-compare-frequencies-sampling-rates-in-pandas-python-pandas-sample-data.html
+https://github.com/amikey/audacity
 # Codigos
 ...
 # Documentos
