@@ -14,12 +14,13 @@ https://steakrecords.com/es/691613-how-to-compare-frequencies-sampling-rates-in-
 https://github.com/amikey/audacity
 
 # Codigos
-https://www.kaggle.com/ejlok1/audio-emotion-part-2-feature-extract
+https://www.kaggle.com/ashishpatel26/feature-extraction-from-audio
 
 # Documentos
 https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/2800/1/SPD08.pdf
 https://cloud.google.com/speech-to-text/docs/multiple-voices#speech_transcribe_diarization_beta-python
 
-# Others
+# Others (dont use)
 https://www.kaggle.com/donghaoqiao/gender-recognition-by-voice-with-python
 https://www.kaggle.com/tekdogan/distinguishing-voices-by-gender-using-svm/notebook?select=voice.csv
+https://www.kaggle.com/ejlok1/audio-emotion-part-2-feature-extract
