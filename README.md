@@ -17,7 +17,7 @@ https://github.com/amikey/audacity
 # Codigos
 https://www.kaggle.com/ashishpatel26/feature-extraction-from-audio
 https://medium.com/@pilarsoledad/construyendo-un-sintetizador-de-texto-a-voz-usando-python-y-selecci%C3%B3n-de-unidades-a5dc2e11a091
-https://github.com/tbcodes/Speech_Recognition_Python_How_to_convert_speech_to_text (es algo parecido a lo que averiguo alejandro talvez despues de esto solo seria comparar en el texto las vocales o algo asi)
+https://github.com/tbcodes/Speech_Recognition_Python_How_to_convert_speech_to_text (es algo parecido a lo que averiguo alejandro talvez despues de esto solo seria comparar en el texto las vocales o algo así)
 # Documentos
 https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/2800/1/SPD08.pdf
 https://cloud.google.com/speech-to-text/docs/multiple-voices#speech_transcribe_diarization_beta-python
