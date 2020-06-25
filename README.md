@@ -16,6 +16,7 @@ https://github.com/amikey/audacity
 
 # Codigos
 https://www.kaggle.com/ashishpatel26/feature-extraction-from-audio
+https://medium.com/@pilarsoledad/construyendo-un-sintetizador-de-texto-a-voz-usando-python-y-selecci%C3%B3n-de-unidades-a5dc2e11a091
 
 # Documentos
 https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/2800/1/SPD08.pdf
